@@ -1,0 +1,51 @@
+############################ URLS #######################################
+
+# Main Page = https://rt-ed.co.il/
+# Veterans Page = https://rt-ed.co.il/articles/soldiers-trust-courses/
+# Hitech Jobs = https://rt-ed.co.il/pages/jobs/
+# Courses For Companies = https://rt-ed.co.il/pages/companies/
+# Articles = https://rt-ed.co.il/articles/archive/
+# About = https://rt-ed.co.il/internal/about/
+# Contact Us = https://rt-ed.co.il/internal/contact-us/
+# * Page of Thank You = https://rt-ed.co.il/internal/%d7%93%d7%a3-%d7%aa%d7%95%d7%93%d7%94/
+#####################
+# Maslulim_Automation_Course = https://rt-ed.co.il/program/automation/
+# Maslulim_QA_Course = https://rt-ed.co.il/program/qa-automation/
+# Maslulim_FullStack_Bootcamp_Course = https://rt-ed.co.il/program/full-stack-bootcamp/
+# Maslulim_FullStack_Course = https://rt-ed.co.il/program/full-stack/
+# Maslulim_Cyber_Course = https://rt-ed.co.il/program/cyber-course/
+# Maslulim_DevOps_Course = https://rt-ed.co.il/program/devops/
+# Maslulim_Data_Science_Course = https://rt-ed.co.il/program/data-science/
+# Maslulim_Data_Analyst_Course = https://rt-ed.co.il/program/%d7%a7%d7%95%d7%a8%d7%a1-%d7%93%d7%90%d7%98%d7%94-%d7%90%d7%a0%d7%9c%d7%99%d7%a1%d7%98/
+# Maslulim_Machine_Learning_Course = https://rt-ed.co.il/program/machine-learning/
+# Maslulim_Image_Processing_Course = https://rt-ed.co.il/program/image-processing/
+# Maslulim_IT_Course = https://rt-ed.co.il/program/courses-%d7%a7%d7%95%d7%a8%d7%a1-%d7%a0%d7%99%d7%94%d7%95%d7%9c-%d7%a9%d7%a8%d7%aa%d7%99-%d7%9c%d7%99%d7%a0%d7%95%d7%a7%d7%a1/
+# Maslulim_Real_Time_Bootcamp_Course = https://rt-ed.co.il/program/rt-bootcamp/
+# Maslulim_Embedded_Systems_Course = https://rt-ed.co.il/program/rt-embedded/
+# Maslulim_Real_Time_Embedded_Linux_Course = https://rt-ed.co.il/program/real-time-embeded/
+# Maslulim_Embedded_Linux_Course = https://rt-ed.co.il/program/real-time-embedded-experienced/
+######################
+# Selenium_Course = https://rt-ed.co.il/courses/selenium-web/
+# Java_Course = https://rt-ed.co.il/courses/java-course/
+# Python_Course = https://rt-ed.co.il/courses/python-course/
+# Networking_Course = https://rt-ed.co.il/courses/networking-%d7%a7%d7%95%d7%a8%d7%a1/
+# Docker_Course = https://rt-ed.co.il/courses/docker/
+# ML_Fundamentals = https://rt-ed.co.il/courses/%d7%a7%d7%95%d7%a8%d7%a1-machine-learning-fundamentals/
+# Cuda_Course = https://rt-ed.co.il/courses/%d7%a7%d7%95%d7%a8%d7%a1-cuda/
+# RT_Concepts = https://rt-ed.co.il/courses/rt-concepts-%d7%a7%d7%95%d7%a8%d7%a1/
+# Linux_Fundamentals = https://rt-ed.co.il/courses/linux-basic-2/
+
+#############################################################################
+
+
+################################## URLS LANDING PAGE ############################################
+
+# FullStack = https://rt-ed.tech/full-stack-developer-22/
+# QA_and_Automation = https://rt-ed.tech/%D7%A7%D7%95%D7%A8%D7%A1-%D7%91%D7%93%D7%99%D7%A7%D7%95%D7%AA-%D7%AA%D7%95%D7%9B%D7%A0%D7%94-qa/
+# Real_Time_Embedded_Linux = https://rt-ed.tech/lp-real-time-embedded-linux/
+# Machine_Learning = https://rt-ed.tech/machine-learning/
+# FullStack_Bootcamp = https://rt-ed.tech/full-stack-bootcamp-22/
+# DevOps = https://rt-ed.tech/devops-specialist_lp/
+# Real_Time_Embedded_Linux_Bootcamp = https://rt-ed.tech/real-time-embedded-linux-bootcamp/
+# Cyber_Security = https://rt-ed.tech/new-cyber/
+# Thank_You_Page = https://rt-ed.tech/thanks/

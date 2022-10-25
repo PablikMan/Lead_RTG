@@ -1,0 +1,35 @@
+###################### FLOATING FORM #############################################
+
+# Last Name = //*[@id='floating-lead-form2'] //descendant::input[@placeholder='שם משפחה']
+# First Name = //*[@id='floating-lead-form2'] //descendant::input[@placeholder='שם פרטי']
+# Email = //*[@id='floating-lead-form2'] //descendant::input[@placeholder='אימייל']
+# Phone = //*[@id='floating-lead-form2'] //descendant::input[@placeholder='טלפון']
+# Choose Maslul = //*[@id='floating-lead-form2'] //descendant::select[@id='target-track']
+# RT Maslul = //*[@id='floating-lead-form2'] //descendant::option[@value='RT']
+# Terms Of Services = //*[@id='floating-lead-form2'] //descendant::input[@type='checkbox']
+# Send Button = //*[@id='floating-lead-form2'] //descendant::button[@name='submit']
+
+# * Page of Thank You = https://rt-ed.co.il/internal/%d7%93%d7%a3-%d7%aa%d7%95%d7%93%d7%94/
+# * Title of Page Thank You = תודה » מכללת הייטק | לימודי תכנות וקורסים מקצועיים להייטק - מכללת RTG
+
+
+# * https://rt-ed.co.il/internal/%d7%93%d7%a3-%d7%aa%d7%95%d7%93%d7%94/
+
+####################################################################################
+
+############################## FORM LANDING PAGE ###################################
+
+# Full_Name = //*[@id='form-field-name']
+# Phone = //*[@id='form-field-number']
+# Email = //*[@id='form-field-myEmail']
+# Background = //select[@id='form-field-select']
+# No_Background = //select[@id='form-field-select'] //option[contains(text(), 'אין לי ידע בכלל')]
+# Terms_Of_Services_FS_QA_FSBT_DO = //*[@id='form-field-terms']
+# Terms_Of_Services_RT_ML_RTBT = //*[@id='form-field-terms-0']
+# Terms_Of_Services_Cyber = //*[@data-id='a2374ca'] //*[@id='form-field-terms-0']
+# Send_Button_FS_FSBT = //*[@id='dx']
+# Send_Button_QA = //*[@id='qa1'] //*[@id='dx']
+# Send_Button_RT_RTBT = //*[@id='rt1'] //*[@id='dx']
+# Send_Button_ML = //*[@id='ml1'] //*[@id='dx']
+# Send_Button_DV = //*[@id='devops1'] //*[@id='dx']
+# Send_Button_Cyber = //*[@id='cy1'] //*[@id='dx']
