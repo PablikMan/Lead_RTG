@@ -4,10 +4,15 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
+from selenium.webdriver.chrome.options import Options
 
 from data import Data
 
-driver = webdriver.Chrome("./src/chromedriver.exe")
+chrome_options = Options()
+chrome_options.headless = True
+chrome_options.add_argument("--headless")
+
+driver = webdriver.Chrome(executable_path="./src/chromedriver", options=chrome_options)
 driver.implicitly_wait(5)
 driver.maximize_window()
 
